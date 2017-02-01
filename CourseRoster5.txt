@@ -1,0 +1,10 @@
+-----CS367 Data_Structures-----
+1. 5678900044	Matthew John
+2. 5674568893	Albert Mustang
+3. 7898798754	Robert Dcosta
+4. 2076594578	Arthur Fisher
+
+-----CS302 Intro_To_Programmming-----
+1. 2076594578	Arthur Fisher
+2. 7898798754	Robert Dcosta
+
